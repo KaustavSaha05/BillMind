@@ -40,7 +40,7 @@
 - [Privacy & Security](#privacy--security)
 - [Contributing](#contributing)
 - [License](#license)
-- [Team & Acknowledgments](#team--acknowledgments)
+- [Developer](#developer)
 
 ---
 
@@ -327,16 +327,8 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## Team & Acknowledgments
+## Developer
 
-### Core Team
-- **Kaustav Saha** — *Team Lead, Backend Developer*
-- **Aritra Chowdhury** — *Frontend Developer*
+Developed by **Kaustav Saha**
 
-### Project Mentors
-- **Prof. Subhabrata Sengupta** — *Project Mentor*
-- **Prof. Dr. Rupayan Das** — *Project Mentor*
-
-### Acknowledgments
-- Flutter & Dart open source communities
-- Material Design 3 guidelines and assets
+🐙 **GitHub:** [@KaustavSaha05](https://github.com/KaustavSaha05) &nbsp;•&nbsp; ✉️ **Email:** [kaustav.saha04@gmail.com](mailto:kaustav.saha04@gmail.com)
